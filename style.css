@@ -1,0 +1,23 @@
+*{
+  font-family: 'Lato', sans-serif;
+}
+input[type=text]{
+  width:120px;
+}
+.btn{
+  font-weight: bold;
+}
+.idInput{
+  width: 55px;
+}
+.btn-outline-success{
+  padding-left: 15.5px;
+  padding-right: 15.5px;
+  text-align: center;
+}
+.editInputs{
+  width: 120px;
+}
+#editSel{
+  padding: 7px 18.5px;
+}
